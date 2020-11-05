@@ -53,7 +53,7 @@ function skills(){
   </tr>\
   <tr>\
     <td>HTML</td>\
-    <td>▰▰▰▱▱▱▱▱▱ 30%</td>\
+    <td>▰▰▰▱▱▱▱▱▱▱ 30%</td>\
   </tr>\
   <tr>\
     <td>Python</td>\
