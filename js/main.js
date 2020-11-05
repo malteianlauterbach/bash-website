@@ -16,7 +16,7 @@ function help(){
   </tr>\
   <tr>\
     <td>colorful </td>\
-    <td>Learn more quick who I actually am</td>\
+    <td>Learn about who I actually am</td>\
   </tr>\
   <tr>\
     <td>scratchpad</td>\
