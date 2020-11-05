@@ -48,9 +48,6 @@ function skills(){
     <td>▰▰▰▰▰▰▰▰▱▱ 80%</td>\
     <tr>\
      <tr>\
-    <td>Leadership&CommunityManagement</td>\
-    <td>▰▰▰▰▰▰▰▰▱▱ 80%</td>\
-    <tr>\
     <td>DaVinci Resolve Studio</td>\
     <td>▰▰▰▰▰▰▰▰▱▱ 80%</td>\
   </tr>\
