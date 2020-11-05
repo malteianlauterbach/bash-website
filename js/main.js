@@ -70,7 +70,7 @@ function skills(){
 }
 
 function quick(){
-  return "<p> placeholder</p>";
+  return "<p> Hey! I am Malte Ian Lauterbach: Programmer; Video Editor, Cam-Operator. I am into OSINT, MILINT, ITSEC and other stuff, like Leadership, Climate politics, and NLP.</p>";
 }
 
 function colorful(){
