@@ -23,7 +23,7 @@ function help(){
     <td>See what I think of day by day</td>\
   </tr>\
   <tr>\
-    <td>legal stuff</td>\
+    <td>legal</td>\
     <td>View GDPDR and legal contact</td>\
   </tr>\
   </tr></table>";
@@ -80,7 +80,7 @@ function colorful(){
   return "place holder until i update this :)";
 }
 
-function links(){
+function legal(){
     return "https://impressum.qualladoom.repl.co"
 }
 
@@ -104,7 +104,7 @@ function commandProcessor(e){
     if(txtInput == "help"){
       document.getElementById('injected').innerHTML=help();
     }else if (txtInput=="all") {
-      document.getElementById('injected').innerHTML=quick() + "\n\n\n" + skills() + "\n\n\n" + links() + "\n\n\n" + contact() + "\n\n\n" + colorful();
+      document.getElementById('injected').innerHTML=quick() + "\n\n\n" + skills() + "\n\n\n" + legal() + "\n\n\n" + contact() + "\n\n\n" + colorful();
     }else if (txtInput == "quick") {
       document.getElementById('injected').innerHTML=quick();
     }else if (txtInput == "contact") {
@@ -113,8 +113,8 @@ function commandProcessor(e){
       document.getElementById('injected').innerHTML=colorful();
     }else if (txtInput=="skills") {
       document.getElementById('injected').innerHTML=skills();
-    }else if (txtInput=="links") {
-      document.getElementById('injected').innerHTML=links();
+    }else if (txtInput=="legal") {
+      document.getElementById('injected').innerHTML=legal();
     }else if (txtInput == "scratchpad") {
       document.getElementById('injected').innerHTML=scratchpad();
     }else{
