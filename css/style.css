@@ -1,7 +1,7 @@
 body{
   font-family: "Lucida Console", "Lucida Sans Unicode", "Courier New";
   color:white;
-  background-color: #1d1f21;
+  background-color: #1f1b32;
 }
 
 a{
@@ -50,7 +50,7 @@ a{
 }
 
 #sidebar h1{
-  color: #58d49f;
+  color: #cf5f68;
   font-size: 52px;
 }
 
@@ -65,7 +65,7 @@ a{
 }
 
 #intro{
-  color: #de935f;
+  color: #cf5f68;
   text-align: justify;
 }
 
@@ -75,8 +75,8 @@ a{
   font-size: 22px;
   vertical-align: middle;
   box-sizing: border-box;
-  background-color: #1d1f21;
-  color: #f0c674;
+  background-color: #191a23;
+  color: #edcb53;
   border: none;
 }
 
@@ -85,8 +85,8 @@ a{
   width:auto;
   font-size: 22px;
   vertical-align: middle;
-  background-color: #1d1f21;
-  color: #b5bd68;
+  background-color: #191a23;
+  color: #87c2c4;
   border: none;
   box-sizing: border-box;
 }
