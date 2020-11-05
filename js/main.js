@@ -4,7 +4,7 @@ function help(){
   return "<h2><span style=\"color:#eb926d;\">Help:</span></h2><table>\
   <tr>\
     <td>quick</td>\
-    <td>TLDRof about me</td>\
+    <td>TLDR of about me</td>\
   </tr>\
   <tr>\
     <td>skills</td>\
