@@ -82,7 +82,7 @@ function legal(){
 }
 
 function scratchpad(){
-  return "<p>";
+  return "<p> <a href=/blog.html> <button class=\"accent\"> My awesome scratchpad!</button> /a>";
 }
 
 // Main Function
@@ -112,7 +112,7 @@ function commandProcessor(e){
       document.getElementById('injected').innerHTML=skills();
     }else if (txtInput=="legal") {
       document.getElementById('injected').innerHTML=legal();
-    }else if (txtInput == "scratchpad") {
+    }else if (txtInput == "scratchpad") {l
       document.getElementById('injected').innerHTML=scratchpad();
     }else{
       document.getElementById('injected').innerHTML = help();
