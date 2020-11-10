@@ -78,7 +78,7 @@ function colorful(){
 }
 
 function legal(){
-    return "https://impressum.qualladoom.repl.co"
+    return "https://impressum.qualladoom.repl.co";
 }
 
 function scratchpad(){
